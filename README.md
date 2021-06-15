@@ -1,5 +1,5 @@
 - I’m @PauloPonte20, novice in programming world.
-- I’m interested in HTML, CSS, JavaScript, Node.js, Angular, React Native, MongoDB.
+- I’m interested in HTML, CSS, JavaScript, Node.js, Angular, React, React Native.
 - I’m currently learning HTML, CSS, JavaScript.
 - 📫 How to reach me: gabeponte20@gmail.com.
 
